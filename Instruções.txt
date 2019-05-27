@@ -1,0 +1,14 @@
+Este trabalho contém 5 arquivos e uma pasta com o projeto.
+
+automato parte1.jff : Autômato criado no JFLAP referente a primeira parte do trabalho
+
+automato parte1.png : imagem do autômato acima.
+
+JFLAP_Whith_Source : JFLAP ultilizado para abrir o arquivo automato parte1.jff.
+
+Documentação ITC.doc : DOcumentação do trabalho no word.
+Documentação ITC.pdf : Documentação do trabalho em PDF.
+
+ITCParaEntregar : Projeto de APD desenvolvido em JAVA na  IDE NetBeans 8.0.
+
+
